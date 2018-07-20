@@ -1,0 +1,13 @@
+.body{
+ background: linear-gradient(#9D8BB5, white, black); 
+}
+
+.show_name{
+  border-style: solid;
+  background: linear-gradient(white, #A5C4D4);
+  
+}
+
+.number_rating{
+  font-style: bold ; 
+}
